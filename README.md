@@ -1,4 +1,4 @@
 # devesh-demo
 this is my first repository
 <br>
-author- Devesh Solanki
+author- Devesh Solanki (midhakur)
